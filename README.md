@@ -59,10 +59,11 @@ language-trainer
 
 To run the chatbot, execute the following command:
 ```
-python src/main.py
+python main.py
 ```
 
-Follow the prompts to interact with the chatbot. You can speak your input, and the chatbot will respond with audio playback.
+Follow the prompts to interact with the chatbot. You can speak your input, and the chatbot will respond with audio playback. 
+To end the training session, use the voice prompt 'Exit' to exit the program, or press any key on the keyboard.
 
 ## License
 
