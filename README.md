@@ -15,17 +15,12 @@ This project is a voice conversation chatbot that utilizes the ChatGPT API. It a
 
 ```
 language-trainer
-├── src
-│   ├── __init__.py
-│   ├── main.py
-│   ├── chat.py
-│   ├── speech.py
-│   ├── audio.py
-│   └── utils.py
-├── tests
-│   ├── __init__.py
-│   ├── test_chat.py
-│   └── test_speech.py
+├── __init__.py
+├── main.py
+├── chat.py
+├── speech.py
+├── audio.py
+└── utils.py
 ├── .env
 ├── requirements.txt
 └── README.md
