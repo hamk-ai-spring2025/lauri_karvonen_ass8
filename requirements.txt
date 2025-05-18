@@ -1,0 +1,10 @@
+openai
+sounddevice
+wavio
+elevenlabs
+python-dotenv
+pytest
+numpy
+requests
+pydub
+SpeechRecognition
