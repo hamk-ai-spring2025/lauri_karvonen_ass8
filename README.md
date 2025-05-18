@@ -30,8 +30,7 @@ language-trainer
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
-   cd voice-chatbot
+   git clone git clone https://github.com/hamk-ai-spring2025/lauri_karvonen_ass8/
    ```
 
 2. Create a virtual environment:
